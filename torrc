@@ -1,0 +1,4 @@
+SocksPort 9050
+SocksBindAddress 127.0.0.1
+AllowUnverifiedNodes middle,rendezvous
+Log notice syslog
